@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Pedro Zara\\Desktop\\atividade\\Programaatv\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{66141ED3-FB7C-4A94-8644-FF8AA5ED6172}|Programaatv\\Programaatv.csproj|c:\\users\\pedro zara\\desktop\\atividade\\programaatv\\programaatv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66141ED3-FB7C-4A94-8644-FF8AA5ED6172}|Programaatv\\Programaatv.csproj|solutionrelative:programaatv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{66141ED3-FB7C-4A94-8644-FF8AA5ED6172}|Programaatv\\Programaatv.csproj|C:\\Users\\Pedro Zara\\Desktop\\atividade\\Programaatv\\programaatv\\notafiscal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66141ED3-FB7C-4A94-8644-FF8AA5ED6172}|Programaatv\\Programaatv.csproj|solutionrelative:programaatv\\notafiscal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{66141ED3-FB7C-4A94-8644-FF8AA5ED6172}|Programaatv\\Programaatv.csproj|C:\\Users\\Pedro Zara\\Desktop\\atividade\\Programaatv\\programaatv\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{66141ED3-FB7C-4A94-8644-FF8AA5ED6172}|Programaatv\\Programaatv.csproj|solutionrelative:programaatv\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{66141ED3-FB7C-4A94-8644-FF8AA5ED6172}|Programaatv\\Programaatv.csproj|C:\\Users\\Pedro Zara\\Desktop\\atividade\\Programaatv\\programaatv\\notafiscal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66141ED3-FB7C-4A94-8644-FF8AA5ED6172}|Programaatv\\Programaatv.csproj|solutionrelative:programaatv\\notafiscal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{66141ED3-FB7C-4A94-8644-FF8AA5ED6172}|Programaatv\\Programaatv.csproj|C:\\Users\\Pedro Zara\\Desktop\\atividade\\Programaatv\\programaatv\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66141ED3-FB7C-4A94-8644-FF8AA5ED6172}|Programaatv\\Programaatv.csproj|solutionrelative:programaatv\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{66141ED3-FB7C-4A94-8644-FF8AA5ED6172}|Programaatv\\Programaatv.csproj|c:\\users\\pedro zara\\desktop\\atividade\\programaatv\\programaatv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66141ED3-FB7C-4A94-8644-FF8AA5ED6172}|Programaatv\\Programaatv.csproj|solutionrelative:programaatv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{66141ED3-FB7C-4A94-8644-FF8AA5ED6172}|Programaatv\\Programaatv.csproj|C:\\Users\\Pedro Zara\\Desktop\\atividade\\Programaatv\\programaatv\\fornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,6 +21,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{66141ED3-FB7C-4A94-8644-FF8AA5ED6172}|Programaatv\\Programaatv.csproj|C:\\Users\\Pedro Zara\\Desktop\\atividade\\Programaatv\\programaatv\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{66141ED3-FB7C-4A94-8644-FF8AA5ED6172}|Programaatv\\Programaatv.csproj|solutionrelative:programaatv\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66141ED3-FB7C-4A94-8644-FF8AA5ED6172}|Programaatv\\Programaatv.csproj|C:\\Users\\Pedro Zara\\Desktop\\atividade\\Programaatv\\programaatv\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66141ED3-FB7C-4A94-8644-FF8AA5ED6172}|Programaatv\\Programaatv.csproj|solutionrelative:programaatv\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,11 +34,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Produto.cs",
               "DocumentMoniker": "C:\\Users\\Pedro Zara\\Desktop\\atividade\\Programaatv\\Programaatv\\Produto.cs",
               "RelativeDocumentMoniker": "Programaatv\\Produto.cs",
@@ -46,23 +46,25 @@
               "RelativeToolTip": "Programaatv\\Produto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T22:25:43.311Z"
+              "WhenOpened": "2025-04-04T22:25:43.311Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "NotaFiscal.cs",
               "DocumentMoniker": "C:\\Users\\Pedro Zara\\Desktop\\atividade\\Programaatv\\Programaatv\\NotaFiscal.cs",
               "RelativeDocumentMoniker": "Programaatv\\NotaFiscal.cs",
               "ToolTip": "C:\\Users\\Pedro Zara\\Desktop\\atividade\\Programaatv\\Programaatv\\NotaFiscal.cs",
               "RelativeToolTip": "Programaatv\\NotaFiscal.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwA0AAABJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T22:24:24.034Z"
+              "WhenOpened": "2025-04-04T22:24:24.034Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Pessoa.cs",
               "DocumentMoniker": "C:\\Users\\Pedro Zara\\Desktop\\atividade\\Programaatv\\Programaatv\\Pessoa.cs",
               "RelativeDocumentMoniker": "Programaatv\\Pessoa.cs",
@@ -70,19 +72,21 @@
               "RelativeToolTip": "Programaatv\\Pessoa.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T22:22:50.498Z"
+              "WhenOpened": "2025-04-04T22:22:50.498Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Fornecedor.cs",
               "DocumentMoniker": "C:\\Users\\Pedro Zara\\Desktop\\atividade\\Programaatv\\Programaatv\\Fornecedor.cs",
               "RelativeDocumentMoniker": "Programaatv\\Fornecedor.cs",
               "ToolTip": "C:\\Users\\Pedro Zara\\Desktop\\atividade\\Programaatv\\Programaatv\\Fornecedor.cs",
               "RelativeToolTip": "Programaatv\\Fornecedor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T22:21:33.197Z"
+              "WhenOpened": "2025-04-04T22:21:33.197Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -92,19 +96,20 @@
               "RelativeDocumentMoniker": "Programaatv\\Cliente.cs",
               "ToolTip": "C:\\Users\\Pedro Zara\\Desktop\\atividade\\Programaatv\\Programaatv\\Cliente.cs",
               "RelativeToolTip": "Programaatv\\Cliente.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T22:23:48.653Z"
+              "WhenOpened": "2025-04-04T22:23:48.653Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Pedro Zara\\Desktop\\atividade\\Programaatv\\Programaatv\\Program.cs",
               "RelativeDocumentMoniker": "Programaatv\\Program.cs",
               "ToolTip": "C:\\Users\\Pedro Zara\\Desktop\\atividade\\Programaatv\\Programaatv\\Program.cs",
               "RelativeToolTip": "Programaatv\\Program.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAgwDoAAAA7AAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADIAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-04T22:19:05.252Z",
               "EditorCaption": ""

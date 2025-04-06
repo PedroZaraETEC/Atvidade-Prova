@@ -1,0 +1,7 @@
+C:\Users\Pedro Zara\Desktop\atividade\Programaatv\Programaatv\bin\Debug\Programaatv.exe.config
+C:\Users\Pedro Zara\Desktop\atividade\Programaatv\Programaatv\bin\Debug\Programaatv.exe
+C:\Users\Pedro Zara\Desktop\atividade\Programaatv\Programaatv\bin\Debug\Programaatv.pdb
+C:\Users\Pedro Zara\Desktop\atividade\Programaatv\Programaatv\obj\Debug\Programaatv.csproj.AssemblyReference.cache
+C:\Users\Pedro Zara\Desktop\atividade\Programaatv\Programaatv\obj\Debug\Programaatv.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Zara\Desktop\atividade\Programaatv\Programaatv\obj\Debug\Programaatv.exe
+C:\Users\Pedro Zara\Desktop\atividade\Programaatv\Programaatv\obj\Debug\Programaatv.pdb
